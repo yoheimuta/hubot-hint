@@ -1,0 +1,27 @@
+{
+  "name": "hubot-hint",
+  "version": "0.0.1",
+  "description": "Hubot tells you how to use other commands",
+  "repository": {
+      "type": "git",
+      "url": "ssh://git@github.com/yoheimuta/hubot-hint.git"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hubot hint",
+    "hubot-hint",
+    "hubot help"
+  ],
+  "bugs": {
+    "url": "https://github.com/yoheimuta/hubot-hint/issues"
+  },
+  "author": "yoheimuta <yoheimuta@gmail.com>",
+  "license": "MIT"
+}
