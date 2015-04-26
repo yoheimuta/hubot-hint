@@ -28,8 +28,13 @@ hubot (.*) hint - Displays all commandHelps releated (.*)
 
 ## Examples
 
+You can check rest of command arguments when you append `hint`.
+
 ```ruby
 hubot> hubot what hint
 hubot what roles do I have - Find out what roles you have
+hubot what roles does <user> have - Find out what roles a user has
+
+hubot> hubot what roles does hint
 hubot what roles does <user> have - Find out what roles a user has
 ```
